@@ -1,4 +1,4 @@
-#Cemmento
+# Cemmento
 
 Cemmento is a digital storage solution/proxy for pages that have been annotated.
 
@@ -10,11 +10,11 @@ The default storage engine is the Internet Archive. The default redirect engine 
 
 Cemmento is designed to be agnostic in terms of storage engine and annotation platform, although at present only the internet archive (storage) and hypothesis (annotation) are written.
 
-#Expected Default Behaviour
+# Expected Default Behaviour
 Users will be redirected to an internet archive version of the requested URL with the hypothesis annotation sidebar loaded.
 
-#Known Issues
+# Known Issues
 Links are likely to be broken on the Wayback Machine version.
 
-#Credits
+# Credits
 Cemmento was written by Martin Paul Eve and Alex Gil. It is copyright 2016. With thanks to Ben Armintor for a design chat. Alex's contribution is part of the work of the group for experimental methods at Columbia University. He promises a web page soon.
